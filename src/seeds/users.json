@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Sara Andersen",
+    "handle": "sara.andersen",
+    "email": "sara.andersen@example.com",
+    "avatar": "https://randomuser.me/api/portraits/women/58.jpg",
+    "bio": "female, from Kongsvinger, Denmark",
+    "password": "123456"
+  },
+  {
+    "id": "2",
+    "name": "Edita Vestering",
+    "handle": "edita.vestering",
+    "email": "edita.vestering@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/women/89.jpg",
+    "bio": "female, from Den Bommel, Netherlands",
+    "password": "123456"
+  },
+  {
+    "id": "3",
+    "name": "Adina Barbosa",
+    "handle": "edina.barbosa",
+    "email": "edina.barbosa@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/women/28.jpg",
+    "bio": "female, from Recife, Brazil",
+    "password": "123456"
+  },
+  {
+    "id": "4",
+    "name": "Roberto Vega",
+    "handle": "roberto.vega",
+    "email": "roberto.vega@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/men/25.jpg",
+    "bio": "male, from LogroÃ±o, Spain",
+    "password": "123456"
+  },
+  {
+    "id": "5",
+    "name": "Rudi Droste",
+    "handle": "rudi.droste",
+    "email": "rudi.droste@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/men/83.jpg",
+    "bio": "male, from GrÃ¼nhain-Beierfeld, Germany",
+    "password": "123456"
+  },
+  {
+    "id": "6",
+    "name": "Carolina Lima",
+    "handle": "carolina.lima",
+    "email": "carolina.lima@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/women/5.jpg",
+    "bio": "female, from Boa Vista, Brazil",
+    "password": "123456"
+  },
+  {
+    "id": "7",
+    "name": "Emre Asikoglu",
+    "handle": "emre.asikoglu",
+    "email": "emre.asikoglu@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "bio": "male, from KÃ¼tahya, Turkey",
+    "password": "123456"
+  },
+  {
+    "id": "8",
+    "name": "Kent Brewer",
+    "handle": "kent.brewer",
+    "email": "kent.brewer@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "bio": "male, from Buncrana, Ireland",
+    "password": "123456"
+  },
+  {
+    "id": "9",
+    "name": "Evan Carlson",
+    "handle": "evan.carlson",
+    "email": "evan.carlson@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/men/80.jpg",
+    "bio": "male, from Southampton, United Kingdom",
+    "password": "123456"
+  },
+  {
+    "id": "10",
+    "name": "Friedrich-Karl Brand",
+    "handle": "friedrich-karl.brand",
+    "email": "friedrich-karl.brand@example.com",
+    "avatar": "https://randomuser.me/api/portraits/med/men/7.jpg",
+    "bio": "male, from Naumburg, Germany",
+    "password": "123456"
+  }
+]
