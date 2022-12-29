@@ -88,5 +88,14 @@
     "avatar": "https://randomuser.me/api/portraits/med/men/7.jpg",
     "bio": "male, from Naumburg, Germany",
     "password": "123456"
+  },
+  {
+    "id": "11",
+    "name": "Demo User",
+    "handle": "demo",
+    "email": "demo@demo.com",
+    "avatar": "https://randomuser.me/api/portraits/med/men/7.jpg",
+    "bio": "male, from Naumburg, Germany",
+    "password": "123456"
   }
 ]
