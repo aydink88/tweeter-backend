@@ -1,0 +1,2 @@
+import{a as e}from"./vendor.9eb6cf8c.js";function l({options:d,activeOption:o,setActiveOption:a}){return e("div",{className:"py-4 bg-base-100 card",children:d.map(r=>e("div",{className:`px-4 py-1 border-l-4 border-white${r.id===o?" border-l-4 border-blue-500 text-blue-500":" cursor-pointer"}`,onClick:()=>a(r.id),children:r.text},r.text))})}export{l as T};
+//# sourceMappingURL=TimelineMenu.f8c3923a.js.map

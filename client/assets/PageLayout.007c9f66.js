@@ -1,0 +1,2 @@
+import{j as n,a as e}from"./vendor.9eb6cf8c.js";const l=({children:s,...a})=>e("div",{className:"w-full md:w-1/4",...a,children:s}),i=({children:s,...a})=>e("div",{className:"w-full md:w-3/4",...a,children:s});function m({children:s}){const a=s.find(t=>t.type===l),d=s.find(t=>t.type===i);return n("div",{className:"flex flex-col gap-8 items-start mx-auto mt-4 w-full sm:w-5/6 md:flex-row md:w-full",children:[a,d]})}m.Side=l;m.Main=i;export{m as P};
+//# sourceMappingURL=PageLayout.007c9f66.js.map
