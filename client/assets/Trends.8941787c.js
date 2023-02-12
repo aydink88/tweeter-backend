@@ -1,2 +1,0 @@
-import{B as t}from"./BaseCard.b1daa0dd.js";import{d as n}from"./Timeline.05d3842f.js";import{a as s,j as i,L as o}from"./vendor.9eb6cf8c.js";function m(){const{data:r}=n();return s(t,{title:"Trends for you",children:s("ul",{children:r==null?void 0:r.trends.map(e=>i("li",{className:"mb-2",children:[s(o,{to:`/trend/${e.id}`,children:i("p",{children:["#",e.text]})}),i("small",{children:[e.tweetCount," tweets"]})]},e.id))})})}export{m as T};
-//# sourceMappingURL=Trends.8941787c.js.map
